@@ -93,3 +93,14 @@ Future iterations may include:
 	•	anonymized client-like use cases
 	•	simple AI agents and automation examples
 	•	cost governance and AI usage control patterns
+	---
+
+## From Principles to Practice
+
+This repository defines the principles, methodology and boundaries guiding my AI consulting approach.
+
+For concrete applications of these principles through real-world business use cases, see: https://github.com/jinxa-ai/ai-business-use-cases
+
+The two repositories are designed to be read together:
+- this one explains **how and why decisions are made**
+- the use case repository shows **how these decisions translate into practice**
